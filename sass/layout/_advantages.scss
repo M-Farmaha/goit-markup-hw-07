@@ -1,0 +1,39 @@
+.adv {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.adv-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.adv-item {
+    max-width: 270px;
+}
+
+.adv-icon-wrap {
+    background-color: var(--alt-bg-color);
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 30px;
+}
+
+.adv-subtitle {
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--title-text-color);
+
+    margin-bottom: 10px;
+}
+
+.adv-text {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+}
