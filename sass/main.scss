@@ -1,5 +1,5 @@
 @import "./utils/variables";
-@import "./utils/visually-hidden";
+@import "./utils/hidden";
 
 @import "./base/reset";
 @import "./base/general";
@@ -9,6 +9,7 @@
 @import "./components/title";
 @import "./components/button";
 @import "./components/modal";
+@import "./components/social";
 
 @import "./layout/header";
 @import "./layout/hero";
@@ -17,4 +18,5 @@
 @import "./layout/team";
 @import "./layout/clients";
 @import "./layout/footer";
+
 @import "./layout/portfolio";
